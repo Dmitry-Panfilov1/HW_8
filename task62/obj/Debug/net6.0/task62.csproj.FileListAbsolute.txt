@@ -1,0 +1,15 @@
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.csproj.AssemblyReference.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.AssemblyInfoInputs.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.AssemblyInfo.cs
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.csproj.CoreCompileInputs.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task62/bin/Debug/net6.0/task62
+/Users/dmitrijpanfilov/Desktop/HW8/task62/bin/Debug/net6.0/task62.deps.json
+/Users/dmitrijpanfilov/Desktop/HW8/task62/bin/Debug/net6.0/task62.runtimeconfig.json
+/Users/dmitrijpanfilov/Desktop/HW8/task62/bin/Debug/net6.0/task62.dll
+/Users/dmitrijpanfilov/Desktop/HW8/task62/bin/Debug/net6.0/task62.pdb
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.dll
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/refint/task62.dll
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.pdb
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/task62.genruntimeconfig.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task62/obj/Debug/net6.0/ref/task62.dll

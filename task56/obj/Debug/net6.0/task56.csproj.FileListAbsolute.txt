@@ -1,0 +1,15 @@
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.csproj.AssemblyReference.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.AssemblyInfoInputs.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.AssemblyInfo.cs
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.csproj.CoreCompileInputs.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task56/bin/Debug/net6.0/task56
+/Users/dmitrijpanfilov/Desktop/HW8/task56/bin/Debug/net6.0/task56.deps.json
+/Users/dmitrijpanfilov/Desktop/HW8/task56/bin/Debug/net6.0/task56.runtimeconfig.json
+/Users/dmitrijpanfilov/Desktop/HW8/task56/bin/Debug/net6.0/task56.dll
+/Users/dmitrijpanfilov/Desktop/HW8/task56/bin/Debug/net6.0/task56.pdb
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.dll
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/refint/task56.dll
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.pdb
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/task56.genruntimeconfig.cache
+/Users/dmitrijpanfilov/Desktop/HW8/task56/obj/Debug/net6.0/ref/task56.dll
